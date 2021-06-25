@@ -1,3 +1,1 @@
-### Hi there 👋
-
-just a guy being a dude
+## just a guy being a dude

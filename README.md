@@ -3,6 +3,7 @@
 currently learning: Typescript and React
 
 <div>
+  <a href="https://github.com/darkeaee">
 <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>

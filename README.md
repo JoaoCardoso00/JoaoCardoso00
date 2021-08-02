@@ -12,8 +12,8 @@ currently learning: Typescript and React
 </div>
 
 <div>
-  <img  height="170em"  width="900em" src="https://github-readme-stats.vercel.app/api?username=darkeaee&show_icons=true&theme=dracula"/>
-  <img  height="170em"  width="900em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkeaee&layout=compact&langs_count=7&theme=dracula"/>
+  <img  height="170em"  width="400em" src="https://github-readme-stats.vercel.app/api?username=darkeaee&show_icons=true&theme=dracula"/>
+  <img  height="170em"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkeaee&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##

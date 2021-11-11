@@ -3,7 +3,7 @@
 currently learning: Typescript and React
 
 <div>
-  <a href="https://github.com/darkeaee">
+  <a href="https://github.com/JoaoCardoso00">
 <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>
@@ -16,8 +16,8 @@ currently learning: Typescript and React
 </div>
 
 <div>
-  <img  height="180em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=darkeaee&show_icons=true&theme=dracula"/>
-  <img  height="180em"  width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkeaee&layout=compact&langs_count=7&theme=dracula"/>
+  <img  height="180em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=JoaoCardoso00&show_icons=true&theme=dracula"/>
+  <img  height="180em"  width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCardoso00&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##

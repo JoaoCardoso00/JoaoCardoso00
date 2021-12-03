@@ -1,6 +1,6 @@
 ## Hello!
 
-currently learning: Typescript and React
+currently learning: Typescript and Vuejs
 
 <div>
   <a href="https://github.com/JoaoCardoso00">

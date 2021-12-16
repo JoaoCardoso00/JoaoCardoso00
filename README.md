@@ -14,7 +14,6 @@ Hi! my name is joão cardoso, a web developer mainly focused on frontend
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
-  <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg'>
 </div>
 

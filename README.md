@@ -1,6 +1,8 @@
 ## Hello!
 
-currently learning: Typescript, nextjs and vuejs
+Hi! my name is joão cardoso, a web developer mainly focused on frontend 
+
+## Technologies im most familiar with
 
 <div>
   <a href="https://github.com/JoaoCardoso00">

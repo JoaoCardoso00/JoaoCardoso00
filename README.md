@@ -28,6 +28,14 @@ currently learning: Typescript, nextjs and vuejs
 </a>
 </div>
   
+## College Projects
+  
+<div style="display: inline_block"><br>
+  <a href="https://github.com/FabioNeves00/Resistores">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=Resistores&showicons=true&theme=dracula&include_all_commits=true"/>
+</a>
+</div>
+  
 ## Front-end only projects
 small projects of when i was learning the basics of HTML + CSS
   

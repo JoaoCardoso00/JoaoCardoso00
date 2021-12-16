@@ -21,7 +21,14 @@ currently learning: Typescript, nextjs and vuejs
   <img  height="180em"  width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCardoso00&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-##
+## Bigger Projects
+<div style="display: inline_block"><br>
+  <a href="https://github.com/JoaoCardoso00/NextFire-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=NextFire-App&showicons=true&theme=dracula&include_all_commits=true"/>
+</a>
+</div>
+  
+## Get in contact with me!
 
 <div>
   <a href="https://www.instagram.com/joao_cardoso_queiroz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>

@@ -18,15 +18,15 @@ Hi! my name is joão cardoso, a web developer mainly focused on frontend
 </div>
 
 <div>
-  <img  height="180em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=JoaoCardoso00&show_icons=true&theme=dracula"/>
-  <img  height="180em"  width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCardoso00&layout=compact&langs_count=7&theme=dracula"/>
+  <img  height="180em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=JoaoCardoso00&show_icons=true&theme=apprentice"/>
+  <img  height="180em"  width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCardoso00&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
 
 ## Bigger Projects
 Complex and big projects usually using React or another js framework
 <div style="display: inline_block"><br>
   <a href="https://github.com/JoaoCardoso00/NextFire-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=NextFire-App&showicons=true&theme=dracula&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=NextFire-App&showicons=true&theme=apprentice&include_all_commits=true"/>
 </a>
 </div>
   
@@ -34,7 +34,7 @@ Complex and big projects usually using React or another js framework
 College projects related to programing
 <div style="display: inline_block"><br>
   <a href="https://github.com/FabioNeves00/Resistores">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=Resistores&showicons=true&theme=dracula&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=Resistores&showicons=true&theme=apprentice&include_all_commits=true"/>
 </a>
 </div>
   
@@ -43,12 +43,12 @@ small projects of when i was learning the basics of HTML + CSS
   
 <div style="display: inline_block"><br>
   <a href="https://github.com/JoaoCardoso00/simple-loginPage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=simple-loginPage&showicons=true&theme=dracula&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=simple-loginPage&showicons=true&theme=apprentice&include_all_commits=true"/>
 </a>
 
  
 <a href="https://github.com/JoaoCardoso00/simple-loginPage">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=simple-calculator&showicons=true&theme=dracula&include_all_commits=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=simple-calculator&showicons=true&theme=apprentice&include_all_commits=true"/>
 </a>
   
 </div>

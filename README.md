@@ -54,6 +54,12 @@ small projects of when i was learning the basics of HTML + CSS
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=simple-calculator&showicons=true&theme=apprentice&include_all_commits=true"/>
 </a>
   
+&nbsp;
+  
+<a href="https://github.com/JoaoCardoso00/pong">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=pong&showicons=true&theme=apprentice&include_all_commits=true"/>
+</a>
+  
 </div>
 
 

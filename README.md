@@ -1,6 +1,6 @@
 ## Hello!
 
-Hi! my name is joão cardoso, a web developer mainly focused on frontend 
+Hi! my name is joão cardoso, Full stack web developer 
 
 ## Technologies im most familiar with
 

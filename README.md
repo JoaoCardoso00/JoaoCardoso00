@@ -45,7 +45,11 @@ College projects related to programing
 <div style="display: inline_block"><br>
   <a href="https://github.com/FabioNeves00/Resistores">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=Resistores&showicons=true&theme=apprentice&include_all_commits=true"/>
-</a>
+  </a>
+    <a href="https://github.com/JoaoCardoso00/TicTacToe-C">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=TicTacToe-C&showicons=true&theme=apprentice&include_all_commits=true"/>
+  </a>
+  
 </div>
   
 ## Front-end only projects

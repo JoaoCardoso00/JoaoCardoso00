@@ -1,6 +1,6 @@
 ## Hello!
 
-Hi! my name is joão cardoso, Full stack web developer 
+Hi! my name is joão cardoso im a Full stack web developer 
 
 ## Technologies im most familiar with
 

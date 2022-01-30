@@ -20,7 +20,7 @@ Hi! my name is joão cardoso im a Full stack web developer
 
 <div>
   <img  height="180em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=JoaoCardoso00&show_icons=true&theme=apprentice"/>
-  <img  height="180em"  width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCardoso00&layout=compact&langs_count=7&theme=apprentice"/>
+  <img  height="175em"  width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCardoso00&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
 
 ## Bigger Projects

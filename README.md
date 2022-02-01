@@ -38,6 +38,12 @@ Complex and big projects usually using React or another js framework
 <a href="https://github.com/JoaoCardoso00/angularFireStarter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=angularFireStarter&showicons=true&theme=apprentice&include_all_commits=true"/>
   </a>
+  
+<a href="https://github.com/JoaoCardoso00/dtMoney">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=dtMoney&showicons=true&theme=apprentice&include_all_commits=true"/>
+</a>
+ 
+
 </div>
   
 ## College Projects

@@ -17,6 +17,7 @@ Hi! my name is joão cardoso im a Full stack web developer
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg'>
+  <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg'>
 </div>
 
 <div>

@@ -37,6 +37,12 @@ Complex and big projects usually using React or another js framework
   
   &nbsp;
   
+  <a href="https://github.com/JoaoCardoso00/Verbo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Verbo&showicons=true&theme=omni&include_all_commits=true"/>
+  </a>
+  
+  &nbsp;
+  
 <a href="https://github.com/JoaoCardoso00/dtMoney">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=dtMoney&showicons=true&theme=omni&include_all_commits=true"/>
 </a>
@@ -44,8 +50,7 @@ Complex and big projects usually using React or another js framework
 <a href="https://github.com/JoaoCardoso00/ig-news">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=ig-news&showicons=true&theme=omni&include_all_commits=true"/>
 </a>
- 
-
+  
 </div>
   
 ## College Projects

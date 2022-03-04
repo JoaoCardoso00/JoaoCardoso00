@@ -1,8 +1,8 @@
 # Hello!
 
-Hi! my name is joão cardoso im a Full stack web developer 
+Hi! I'm João Cardoso and I am a full stack web developer.
 
-## Technologies im most familiar with
+## Technologies im most familiar with:
 
 <div>
   <a href="https://github.com/JoaoCardoso00">

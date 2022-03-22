@@ -6,7 +6,7 @@ Hi! I'm João Cardoso and I am a full stack web developer.
 
 <div>
   <a href="https://github.com/JoaoCardoso00">
-<img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
+  <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'>

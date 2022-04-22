@@ -104,4 +104,4 @@ small projects of when i was learning the basics of HTML + CSS
      <a href="https://www.twitch.tv/darkeae_osu"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt=""></a>
      <a href="mailto:jvcq13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
 
-</div>
+</div> 

@@ -58,6 +58,11 @@ Complex and big projects usually using React or another js framework
 </a>
   
   
+<a href="https://github.com/JoaoCardoso00/Dashgo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=NLW-Return&showicons=true&theme=github_dark&     include_all_commits=true"/>
+</a>
+  
+  
 </div>
   
 ## College Projects

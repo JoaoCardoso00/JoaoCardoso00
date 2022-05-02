@@ -21,40 +21,40 @@ Hi! I'm João Cardoso and I am a full stack web developer.
 </div>
     &nbsp;
 <div>
-  <img  height="175em"  width="420em" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoCardoso00&show_icons=true&theme=omni"/>
-  <img  height="168em"  width="350em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCardoso00&layout=compact&langs_count=7&theme=omni"/>
+  <img  height="175em"  width="420em" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoCardoso00&show_icons=true&theme=github_dark"/>
+  <img  height="168em"  width="350em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCardoso00&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ## Bigger Projects
 Complex and big projects usually using React or another js framework
 <div style="display: inline_block"><br>
   <a href="https://github.com/JoaoCardoso00/NextFire-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=NextFire-App&showicons=true&theme=omni&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=NextFire-App&showicons=true&theme=github_dark&include_all_commits=true"/>
   </a>
   <a href="https://github.com/JoaoCardoso00/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Portfolio&showicons=true&theme=omni&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Portfolio&showicons=true&theme=github_dark&include_all_commits=true"/>
   </a>
   
   &nbsp;
   
   <a href="https://github.com/JoaoCardoso00/Verbo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Verbo&showicons=true&theme=omni&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Verbo&showicons=true&theme=github_dark&include_all_commits=true"/>
   </a>
   
   &nbsp;
   
 <a href="https://github.com/JoaoCardoso00/dtMoney">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=dtMoney&showicons=true&theme=omni&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=dtMoney&showicons=true&theme=github_dark&include_all_commits=true"/>
 </a>
   
 <a href="https://github.com/JoaoCardoso00/ig-news">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=ig-news&showicons=true&theme=omni&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=ig-news&showicons=true&theme=github_dark&include_all_commits=true"/>
 </a>
  
   &nbsp;
  
  <a href="https://github.com/JoaoCardoso00/Dashgo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Dashgo&showicons=true&theme=omni&     include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Dashgo&showicons=true&theme=github_dark&     include_all_commits=true"/>
 </a>
   
   
@@ -64,10 +64,10 @@ Complex and big projects usually using React or another js framework
 College projects related to programing
 <div style="display: inline_block"><br>
   <a href="https://github.com/FabioNeves00/Resistores">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=Resistores&showicons=true&theme=omni&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=Resistores&showicons=true&theme=github_dark&include_all_commits=true"/>
   </a>
     <a href="https://github.com/JoaoCardoso00/TicTacToe-C">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=TicTacToe-C&showicons=true&theme=omni&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=TicTacToe-C&showicons=true&theme=github_dark&include_all_commits=true"/>
   </a>
   
 </div>
@@ -77,18 +77,18 @@ small projects of when i was learning the basics of HTML + CSS
   
 <div style="display: inline_block"><br>
   <a href="https://github.com/JoaoCardoso00/simple-loginPage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=simple-loginPage&showicons=true&theme=omni&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=simple-loginPage&showicons=true&theme=github_dark&include_all_commits=true"/>
 </a>
 
  
 <a href="https://github.com/JoaoCardoso00/simple-calculator">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=simple-calculator&showicons=true&theme=omni&include_all_commits=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=simple-calculator&showicons=true&theme=github_dark&include_all_commits=true"/>
 </a>
   
 &nbsp;
   
 <a href="https://github.com/JoaoCardoso00/pong">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=pong&showicons=true&theme=omni&include_all_commits=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=pong&showicons=true&theme=github_dark&include_all_commits=true"/>
 </a>
   
 </div>

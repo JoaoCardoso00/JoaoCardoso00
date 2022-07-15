@@ -1,6 +1,6 @@
 # Hello!
 
-Hi! I'm João Cardoso and I am a front-end web developer.
+Hi! I'm João Cardoso and I am a Full Stack web developer.
 
 ## Technologies im most familiar with:
 

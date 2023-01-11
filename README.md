@@ -49,10 +49,20 @@ Complex and big projects usually using React or another js framework
 <a href="https://github.com/JoaoCardoso00/ig-news">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=ig-news&showicons=true&theme=github_dark&include_all_commits=true"/>
 </a>
-
-
-
+</div>
   
+## Mobile Projects
+Mobile projects using Swift
+  
+  <div style="display: inline_block"><br>
+  <a href="https://github.com/JoaoCardoso00/NextFire-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Clima&showicons=true&theme=github_dark&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/JoaoCardoso00/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=ByteCoin&showicons=true&theme=github_dark&include_all_commits=true"/>
+  </a>
+  
+ 
 </div>
   
 ## College Projects

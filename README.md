@@ -8,6 +8,7 @@ Hi! I'm João Cardoso and I am a Full Stack web developer.
   <a href="https://github.com/JoaoCardoso00">
   
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg'>
+      <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg'>
    <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg'>

@@ -9,7 +9,7 @@ Hi! I'm João Cardoso and I am a Full Stack web developer.
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg'>
 </div>
-    &nbsp;
+    &nbsp; 
 <div>
   <img  height="175em"  width="420em" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoCardoso00&show_icons=true&theme=github_dark"/>
   <img  height="168em"  width="350em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCardoso00&layout=compact&langs_count=7&theme=github_dark"/>

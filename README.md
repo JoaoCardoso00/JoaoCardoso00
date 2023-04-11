@@ -18,11 +18,11 @@ Hi! I'm João Cardoso and I am a Front end web developer.
 ## Bigger Projects
 Complex and big projects usually using React or another js framework
 <div style="display: inline_block"><br>
+  <a href="https://github.com/JoaoCardoso00/Eco-Rota">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Eco-Rota&showicons=true&theme=github_dark&include_all_commits=true"/>
+  </a>
   <a href="https://github.com/JoaoCardoso00/NextFire-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=NextFire-App&showicons=true&theme=github_dark&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/JoaoCardoso00/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Portfolio&showicons=true&theme=github_dark&include_all_commits=true"/>
   </a>
   
   &nbsp;

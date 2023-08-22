@@ -72,7 +72,7 @@ College projects related to programing
   
 </div>
   
-## Front-end only projects
+## Basics
 small projects of when i was learning the basics of HTML + CSS
   
 <div style="display: inline_block"><br>

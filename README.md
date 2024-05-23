@@ -1,6 +1,6 @@
 # Hello!
 
-Hi! I'm João Cardoso and I am a Front end web developer.
+Hi! I'm João Cardoso and I am a Full stack web developer.
 
 <div>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg'>

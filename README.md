@@ -2,6 +2,8 @@
 
 Hi! I'm João Cardoso and I am a Full stack web developer.
 
+I regularly update my repositories, though this README may not always reflect my most recent work, as I mostly work on private repos.
+
 <div>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg'>
@@ -11,38 +13,38 @@ Hi! I'm João Cardoso and I am a Full stack web developer.
 </div>
     &nbsp; 
 <div>
-  <img  height="175em"  width="420em" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoCardoso00&show_icons=true&theme=github_dark"/>
-  <img  height="168em"  width="350em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCardoso00&layout=compact&langs_count=7&theme=github_dark"/>
+  <img  height="175em"  width="420em" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoCardoso00&show_icons=true&theme=synthwave"/>
+  <img  height="168em"  width="350em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCardoso00&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ## Bigger Projects
 Complex and big projects usually using React or another js framework
 <div style="display: inline_block"><br>
   <a href="https://github.com/JoaoCardoso00/Eco-Rota">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Eco-Rota&showicons=true&theme=github_dark&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Eco-Rota&showicons=true&theme=synthwave&include_all_commits=true"/>
   </a>
   <a href="https://github.com/JoaoCardoso00/NextFire-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=NextFire-App&showicons=true&theme=github_dark&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=NextFire-App&showicons=true&theme=synthwave&include_all_commits=true"/>
   </a>
   
   &nbsp;
   
   <a href="https://github.com/JoaoCardoso00/Verbo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Verbo&showicons=true&theme=github_dark&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Verbo&showicons=true&theme=synthwave&include_all_commits=true"/>
   </a>
 
   <a href="https://github.com/JoaoCardoso00/Cog">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Cog&showicons=true&theme=github_dark&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Cog&showicons=true&theme=synthwave&include_all_commits=true"/>
   </a>
   
   &nbsp;
   
 <a href="https://github.com/JoaoCardoso00/dtMoney">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=dtMoney&showicons=true&theme=github_dark&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=dtMoney&showicons=true&theme=synthwave&include_all_commits=true"/>
 </a>
   
 <a href="https://github.com/JoaoCardoso00/ig-news">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=ig-news&showicons=true&theme=github_dark&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=ig-news&showicons=true&theme=synthwave&include_all_commits=true"/>
 </a>
 </div>
   
@@ -51,10 +53,10 @@ Mobile projects using Swift
   
   <div style="display: inline_block"><br>
   <a href="https://github.com/JoaoCardoso00/NextFire-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Clima&showicons=true&theme=github_dark&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=Clima&showicons=true&theme=synthwave&include_all_commits=true"/>
   </a>
   <a href="https://github.com/JoaoCardoso00/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=ByteCoin&showicons=true&theme=github_dark&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=ByteCoin&showicons=true&theme=synthwave&include_all_commits=true"/>
   </a>
   
  
@@ -64,10 +66,10 @@ Mobile projects using Swift
 College projects related to programing
 <div style="display: inline_block"><br>
   <a href="https://github.com/FabioNeves00/Resistores">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=Resistores&showicons=true&theme=github_dark&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=Resistores&showicons=true&theme=synthwave&include_all_commits=true"/>
   </a>
     <a href="https://github.com/JoaoCardoso00/TicTacToe-C">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=TicTacToe-C&showicons=true&theme=github_dark&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=TicTacToe-C&showicons=true&theme=synthwave&include_all_commits=true"/>
   </a>
   
 </div>
@@ -77,18 +79,18 @@ small projects of when i was learning the basics of HTML + CSS
   
 <div style="display: inline_block"><br>
   <a href="https://github.com/JoaoCardoso00/simple-loginPage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=simple-loginPage&showicons=true&theme=github_dark&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=simple-loginPage&showicons=true&theme=synthwave&include_all_commits=true"/>
 </a>
 
  
 <a href="https://github.com/JoaoCardoso00/simple-calculator">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=simple-calculator&showicons=true&theme=github_dark&include_all_commits=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=simple-calculator&showicons=true&theme=synthwave&include_all_commits=true"/>
 </a>
   
 &nbsp;
   
 <a href="https://github.com/JoaoCardoso00/pong">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=pong&showicons=true&theme=github_dark&include_all_commits=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoCardoso00&repo=pong&showicons=true&theme=synthwave&include_all_commits=true"/>
 </a>
   
 </div>

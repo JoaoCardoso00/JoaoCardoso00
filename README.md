@@ -6,10 +6,10 @@ I regularly update my repositories, though this README may not always reflect my
 
 <div>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg'>
-  <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
   <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg'>
-  <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg'>
+  <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg'>
+  <img height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg'>
 </div>
     &nbsp; 
 <div>
